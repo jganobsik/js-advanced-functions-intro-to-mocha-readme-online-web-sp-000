@@ -10,8 +10,8 @@ function sayHey() {
   return 'Hey!';
 }
 
-function theTruth() {
-  return true;
+function sayHeyFriend(name) {
+  return "Hey, " + friend +"!";
 }
 
 function theTruth() {
