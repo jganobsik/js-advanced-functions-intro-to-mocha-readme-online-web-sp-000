@@ -5,3 +5,15 @@ function favoriteIceCream(flavor) {
 function theTruth() {
   return true;
 }
+
+function theTruth() {
+  return true;
+}
+
+function theTruth() {
+  return true;
+}
+
+function theTruth() {
+  return true;
+}
