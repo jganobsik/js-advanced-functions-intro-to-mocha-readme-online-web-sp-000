@@ -14,6 +14,9 @@ function sayHeyFriend(name) {
   return "Hey, " + friend +"!";
 }
 
-function theTruth() {
-  return true;
+function shouting(word) {
+  return word.toUpperCase();
+}
+function roundDown(num) {
+  return num.round();
 }
