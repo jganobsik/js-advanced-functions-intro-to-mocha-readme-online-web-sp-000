@@ -11,7 +11,7 @@ function sayHey() {
 }
 
 function sayHeyFriend(name) {
-  return "Hey, " + friend +"!";
+  return "Hey, " + name +"!";
 }
 
 function shouting(word) {
