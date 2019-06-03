@@ -1,3 +1,3 @@
 function favoriteIceCream(flavor) {
-  return "I Love " + flavor;
+  return "I love " + flavor;
 }
